@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-label="Nabiel — Independent AI Developer. Ship log banner.">
+  <style>
+    .mono { font-family: 'JetBrains Mono','Cascadia Code','Fira Code',Consolas,monospace; }
+    .sans { font-family: 'Inter','Segoe UI',system-ui,sans-serif; }
+  </style>
+  <rect width="1280" height="420" fill="#050708"/>
+
+  <!-- hairline grid -->
+  <g stroke="#101515" stroke-width="1">
+    <line x1="0" y1="60" x2="1280" y2="60"/>
+    <line x1="0" y1="120" x2="1280" y2="120"/>
+    <line x1="0" y1="180" x2="1280" y2="180"/>
+    <line x1="0" y1="240" x2="1280" y2="240"/>
+    <line x1="0" y1="300" x2="1280" y2="300"/>
+    <line x1="0" y1="360" x2="1280" y2="360"/>
+    <line x1="80" y1="0" x2="80" y2="420"/>
+    <line x1="280" y1="0" x2="280" y2="420"/>
+    <line x1="480" y1="0" x2="480" y2="420"/>
+    <line x1="680" y1="0" x2="680" y2="420"/>
+    <line x1="880" y1="0" x2="880" y2="420"/>
+    <line x1="1080" y1="0" x2="1080" y2="420"/>
+  </g>
+
+  <!-- status rail -->
+  <g class="mono" fill="#718080" font-size="13" letter-spacing="1">
+    <text x="80" y="52">~/moenabiel</text>
+    <text x="280" y="52" fill="#43E6D0">● BUILDING</text>
+    <text x="1080" y="52" text-anchor="start">v2026.11</text>
+  </g>
+
+  <!-- name -->
+  <text x="76" y="178" class="mono" fill="#FFFFFF" font-size="96" font-weight="700" letter-spacing="4">NABIEL</text>
+
+  <!-- identity line -->
+  <g class="mono" font-size="17">
+    <text x="80" y="222" fill="#39F5B4">&gt;</text>
+    <text x="104" y="222" fill="#FFFFFF">Independent AI Developer</text>
+    <text x="356" y="222" fill="#718080">·</text>
+    <text x="374" y="222" fill="#FFFFFF">Automation Engineer</text>
+    <text x="600" y="222" fill="#718080">·</text>
+    <text x="618" y="222" fill="#FFFFFF">Technology Builder</text>
+  </g>
+
+  <!-- accent rule -->
+  <rect x="80" y="248" width="240" height="3" fill="#39F5B4"/>
+  <rect x="326" y="248" width="56" height="3" fill="#43E6D0"/>
+  <rect x="388" y="248" width="18" height="3" fill="#A6FF4D"/>
+
+  <!-- ship log: real projects, real status -->
+  <g class="mono" font-size="14">
+    <text x="80" y="296" fill="#718080">$ ship --list</text>
+    <text x="80" y="322" fill="#43E6D0">→</text>
+    <text x="104" y="322" fill="#FFFFFF">quality-house-v4</text>
+    <text x="296" y="322" fill="#718080">consignment-dossier site · astro+gsap</text>
+    <text x="80" y="346" fill="#43E6D0">→</text>
+    <text x="104" y="346" fill="#FFFFFF">freellmapi</text>
+    <text x="296" y="346" fill="#718080">16 free LLM providers · one OpenAI-compatible API</text>
+    <text x="80" y="370" fill="#43E6D0">→</text>
+    <text x="104" y="370" fill="#FFFFFF">smt-lab</text>
+    <text x="296" y="370" fill="#718080">smart-money-concepts backtesting research · python</text>
+    <text x="80" y="394" fill="#43E6D0">→</text>
+    <text x="104" y="394" fill="#FFFFFF">mimo-vscode</text>
+    <text x="296" y="394" fill="#718080">AI-assisted coding extension · vscode</text>
+  </g>
+
+  <!-- corner detail -->
+  <rect x="0" y="0" width="1280" height="6" fill="#39F5B4"/>
+</svg>
