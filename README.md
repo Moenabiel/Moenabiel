@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="Nabiel — Independent AI Developer · Automation Engineer · Technology Builder" width="100%" />
+  <img src="./banner.svg" alt="Nabiel — Independent AI Developer · Automation Engineer · Technology Builder" width="100%" />
 </div>
 
 # Hi, I'm Nabiel
 
 I'm an independent developer building real, working systems with AI and automation —
 websites with real motion engineering, an OpenAI-compatible gateway over free LLM
-providers, quantitative trading research, VS Code tooling, and MetaTrader expert
-advisors. I build in public, ship what I start, and document honestly: everything on
-this profile is labeled by its actual status — **active**, **research**, or
-**experimental**. Nothing here is a tutorial clone.
+providers, quantitative trading research, and MetaTrader expert advisors. I build in
+public, ship what I start, and document honestly: everything on this profile is
+labeled by its actual status — **active**, **research**, or **experimental**. Nothing
+here is a tutorial clone.
 
 ## What I build
 
 | Area | What that looks like |
 |---|---|
-| **AI applications & agents** | LLM gateway aggregating 16 free providers behind one endpoint; AI-assisted coding tools |
+| **AI applications & agents** | LLM gateway aggregating 16 free providers behind one endpoint; provider routing and fallbacks |
 | **AI infrastructure** | Provider routing, proxying, rate-limit handling, OpenAI-compatible API design |
 | **Websites & motion systems** | Production-grade Astro sites with GSAP + Lenis scroll choreography and design-token law |
 | **Trading technology** | SMC backtesting research lab, event-driven fill simulation, MQL5 expert advisors |
@@ -43,7 +43,7 @@ this profile is labeled by its actual status — **active**, **research**, or
 | [freellmapi](https://github.com/Moenabiel/freellmapi) | 16 free LLM providers behind one OpenAI-compatible endpoint — routing, streaming, key handling | Node.js · TypeScript · Docker | **Active** |
 | [smt-lab](https://github.com/Moenabiel/smt-lab) | Research framework for Smart Money Concepts backtesting: real fill-to-stop sizing, walk-forward validation, Streamlit desktop app | Python · Pandas | **Research** |
 | [memo-smt-ea](https://github.com/Moenabiel/memo-smt-ea) | MetaTrader 5 EA framework — SMC entries, correlation engine, news-blackout scheduling | MQL5 | **Research** |
-| [mimo-vscode](https://github.com/Moenabiel/mimo-vscode) | VS Code extension for AI-assisted coding workflows | TypeScript | **Experimental** |
+| [SMT-Divergence-EA](https://github.com/Moenabiel/SMT-Divergence-EA) | MetaTrader 5 expert advisor — SMT divergence entries on XAUUSD with disciplined risk sizing | MQL5 | **Research** |
 | [motion-lab](https://github.com/Moenabiel/motion-lab) | Vanilla HTML/CSS/JS motion experiments — easing studies and reference shots | HTML · CSS · JS | **Sandbox** |
 
 ## Currently
