@@ -11,7 +11,7 @@ honest. I ship what I start and document honestly: every project here is labeled
 actual status — **active**, **research**, **experimental** or **sandbox** — and nothing here
 is a tutorial clone.
 
-**Live portfolio → [moenabiel.github.io](https://moenabiel.github.io/)**
+**Live portfolio → [moenabiel.github.io](https://moenabiel.github.io/)** · [diagrams & builds](https://moenabiel.github.io/#artifacts)
 
 ## What I build
 
